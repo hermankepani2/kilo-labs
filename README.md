@@ -1,7 +1,5 @@
 # kilo-labs
 Kilo Labs LLC — a Hawai'i combat sports brand becoming the Polynesian performance apparel company. Combat sports is the foundation. From the 808 to the World. For the warrior in all of us.
-Step 2 — paste this whole block as the README:
-
 Kilo Labs LLC
 
 From the 808 to the World. For the warrior in all of us.
@@ -15,3 +13,5 @@ Website: kilolabs.tech — landing page in build, temporary until the domain exp
 Contact: kilolabsllc@gmail.com
 EIN: assigned by the IRS — number not shown here
 D-U-N-S Number: assigned by Dun & Bradstreet — number not shown here
+
+
